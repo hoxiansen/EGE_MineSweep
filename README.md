@@ -1,6 +1,10 @@
 # EGE_MineSweep
 一个用[EGE](https://xege.org/)实现的简易扫雷游戏
 
+![normal](/assets/normal.png)
+![defeat](/assets/defeat.png)
+![victory](/assets/victory.png)
+
 ## Windows下使用VSCode编译步骤
 
 ### 环境准备
